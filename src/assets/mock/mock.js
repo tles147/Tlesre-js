@@ -1,5 +1,5 @@
-import image1 from "../images/1.png";
-import gift1 from "../images/gifts/1.png";
+import image1 from "C:\Users\TLES\Downloads\surprise-birthday-basic-master\surprise-birthday-basic-master\src\assets\images\img.jpg";
+import gift1 from "C:\Users\TLES\Downloads\surprise-birthday-basic-master\surprise-birthday-basic-master\src\assets\images\gifts\imm.jpg";
 
 export const _albums = image1;
 
